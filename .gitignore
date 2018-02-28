@@ -1,0 +1,46 @@
+# =============== #
+# Unity generated #
+# =============== #
+Sloth/[Aa]ssets/AssetStoreTools*
+Sloth/[Bb]uild/
+Sloth/[Bb]uilds/
+Sloth/[Ll]ibrary/
+Sloth/[Ll]ocal[Cc]ache/
+Sloth/[Oo]bj/
+Sloth/[Tt]emp/
+Sloth/[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+[Cc]urrent[Ll]ayout.dwlt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Sloth/[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*.dwlt
+Sloth/Library/LastSceneManagerSetup.txt
+Sloth/Library/CurrentLayout.dwlt
